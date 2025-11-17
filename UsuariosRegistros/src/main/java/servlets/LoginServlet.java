@@ -9,6 +9,8 @@ import java.io.IOException;
 public class LoginServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
+
+
     // Datos ficticios para validación simple
     private static final String USUARIO_VALIDO = "Ana";
     private static final String CONTRASEÑA_VALIDA = "123456";
